@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "129884684143",
+    "firebase_url": "https://blitzcart-a9352-default-rtdb.firebaseio.com",
+    "project_id": "blitzcart-a9352",
+    "storage_bucket": "blitzcart-a9352.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:129884684143:android:80ac045b0591729d61b29a",
+        "android_client_info": {
+          "package_name": "com.stim.blitzcart"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkf70fPpKKUq24LjKd17A6llLyZLg0WbM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

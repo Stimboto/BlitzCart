@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- res/layout/item_kitchen_product.xml -->
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginBottom="40dp"
+    android:padding="8dp">
+
+    <ImageView
+        android:id="@+id/kitchenProductImage"
+        android:layout_width="120dp"
+        android:layout_height="80dp"
+        android:src="@drawable/ic_k1"
+        android:scaleType="centerCrop"
+        android:background="@drawable/ic_k1"/>
+
+    <TextView
+        android:id="@+id/kitchenProductName"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Kitchen Product"
+        android:layout_below="@id/kitchenProductImage"
+        android:layout_marginTop="8dp"
+        android:gravity="center"/>
+</RelativeLayout>

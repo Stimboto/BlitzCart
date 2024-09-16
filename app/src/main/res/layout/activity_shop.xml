@@ -1,0 +1,28 @@
+<!-- res/layout/activity_shop.xml -->
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <!-- Category strip -->
+    <LinearLayout
+        android:id="@+id/categoryStrip"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:layout_alignParentStart="true"
+        android:background="@color/categoryStripBackground">
+
+        <!-- Category icons dynamically added here -->
+
+    </LinearLayout>
+
+    <!-- Product list -->
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/productRecyclerView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_toEndOf="@id/categoryStrip"
+        android:padding="16dp" />
+
+</RelativeLayout>

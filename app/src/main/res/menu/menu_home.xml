@@ -1,0 +1,43 @@
+<!-- res/menu/menu_home.xml -->
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/action_home"
+        android:title="Home"
+        android:icon="@drawable/ic_home" />
+
+    <item
+        android:id="@+id/action_shop"
+        android:title="Shop"
+        android:icon="@drawable/ic_shop" />
+
+    <item
+        android:id="@+id/action_wishlist"
+        android:title="Wishlist"
+        android:icon="@drawable/ic_wishlist" />
+
+    <item
+        android:id="@+id/action_checkout"
+        android:title="Checkout"
+        android:icon="@drawable/ic_checkout" />
+
+    <item
+        android:id="@+id/action_cart"
+        android:title=""
+        android:icon="@drawable/ic_search"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/action_search"
+        android:title=""
+        android:icon="@drawable/ic_account"
+        app:showAsAction="always"/>
+
+    <item
+        android:id="@+id/action_account"
+        android:title=""
+        android:icon="@drawable/ic_cart"
+        app:showAsAction="always"/>
+
+</menu>

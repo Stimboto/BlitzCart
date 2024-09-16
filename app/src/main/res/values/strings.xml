@@ -1,0 +1,17 @@
+<!-- res/values/strings.xml -->
+<resources>
+    <string name="app_name">YourAppName</string>
+    <!-- ... other strings ... -->
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="default_notification_channel_id">Default Notification Channel</string>
+
+
+    <!-- ... FOR FRAGMENTS ... -->
+    <string name="address_fragment">Address Fragment</string>
+    <string name="contacts_fragment">Contacts Fragment</string>
+    <string name="support_fragment">Address Fragment</string>
+    <string name="order_fragment">Address Fragment</string>
+    <string name="setting_fragment">Address Fragment</string>
+    <!-- Other strings go here -->
+</resources>

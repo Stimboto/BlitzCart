@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <!-- res/values/styles.xml -->
+    <resources>
+
+        <!-- Style for Category Buttons -->
+        <style name="CategoryButton">
+            <item name="android:layout_width">0dp</item>
+            <item name="android:layout_height">wrap_content</item>
+            <item name="android:layout_weight">1</item>
+            <item name="android:textSize">16sp</item>
+            <!-- Add other styling attributes as needed -->
+        </style>
+
+        <!-- Style for Bottom Navigation Bar Buttons -->
+        <style name="BottomNavBarButton">
+            <item name="android:layout_width">0dp</item>
+            <item name="android:layout_height">wrap_content</item>
+            <item name="android:layout_weight">1</item>
+            <item name="android:textSize">16sp</item>
+            <!-- Add other styling attributes as needed -->
+        </style>
+
+    <!-- for fragments -->
+        <style name="AddressFragmentTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+            <!-- Customize your theme attributes here -->
+            <item name="colorPrimary">#FF4081</item>
+            <item name="colorPrimaryDark">#E91E63</item>
+            <item name="colorAccent">#FFC107</item>
+        </style>
+        <style name="ContactUsFragmentTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+            <!-- Customize your theme attributes here -->
+            <item name="colorPrimary">#FF4081</item>
+            <item name="colorPrimaryDark">#E91E63</item>
+            <item name="colorAccent">#FFC107</item>
+            </style>
+        <style name="HelpSupportFragmentTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+            <!-- Customize your theme attributes here -->
+            <item name="colorPrimary">#FF4081</item>
+            <item name="colorPrimaryDark">#E91E63</item>
+            <item name="colorAccent">#FFC107</item>
+        </style>
+        <style name="OrderFragmentTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+            <!-- Customize your theme attributes here -->
+            <item name="colorPrimary">#FF4081</item>
+            <item name="colorPrimaryDark">#E91E63</item>
+            <item name="colorAccent">#FFC107</item>
+        </style>
+        <style name="SettingsFragmentTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+            <!-- Customize your theme attributes here -->
+            <item name="colorPrimary">#FF4081</item>
+            <item name="colorPrimaryDark">#E91E63</item>
+            <item name="colorAccent">#FFC107</item>
+        </style>
+
+    </resources>
+
+
+
+
+

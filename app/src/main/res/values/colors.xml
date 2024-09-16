@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="purple_700">#4D1F8E</color>
+    <color name="blueDark">#2B1051</color>
+    <color name="bottom_nav_icon_color">#000000</color>
+    <!-- colors.xml -->
+    <color name="categoryStripBackground">#4D1F8E</color>
+
+    <color name="bottom_nav_text_color">#171905</color>
+    <color name="your_icon_color">#000000</color> <!-- Replace #FF0000 with the desired color code -->
+    <color name="your_text_color">#171905</color> <!-- Replace #00FF00 with the desired color code -->
+</resources>
