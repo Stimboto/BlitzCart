@@ -349,12 +349,10 @@ See LICENSE for more information.
 
 <div align="center">
 
-# 🚀 STIMBOTO
+# Developed with ❤️ by STIMBOTO
 
-### Building Internet Products • Marketplace Systems
+### Building Modern Android Experiences
 
 ⭐ Star the repository if you found it useful.
-
-Made with ❤️ and Kotlin.
 
 </div>
