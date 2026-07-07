@@ -1,4 +1,3 @@
-````markdown
 <div align="center">
 
 <img src="https://github.com/user-attachments/assets/cc9d53de-b56a-4577-ad29-dc4ebd81b908" alt="BlitzCart Banner" width="100%"/>
@@ -18,49 +17,50 @@
 <img src="https://img.shields.io/badge/UI-Material%20Design-red?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge" />
 
-<br><br>
+<br>
 
 ### ⚡ Everyday Shopping • Delivered Smarter
+
+*A modern Android quick-commerce experience for groceries, daily essentials, and smarter shopping.*
 
 </div>
 
 ---
 
-# ✨ About BlitzCart
+# ✨ Overview
 
-**BlitzCart** is a modern Android quick-commerce application built to simplify everyday shopping through a fast, intuitive, and customer-first experience.
+**BlitzCart** is a modern Android quick-commerce application designed to make everyday shopping faster, simpler, and more enjoyable.
 
-From groceries and household essentials to everyday products, BlitzCart enables users to discover items, manage shopping carts, place orders, and enjoy a seamless purchasing journey—all from an elegant mobile interface.
+From groceries and fresh produce to household essentials, BlitzCart enables users to explore products, manage shopping carts, place orders, and enjoy a smooth mobile shopping experience through an elegant, responsive interface.
 
-Designed with scalability, reliability, and performance in mind, BlitzCart follows modern Android development practices while leveraging cloud-connected services to deliver a smooth, responsive, and delightful shopping experience.
+Built with scalability and performance in mind, BlitzCart follows modern Android architecture while utilizing reliable cloud-connected services to provide a seamless customer experience.
 
 ---
 
 # 🚀 Core Features
 
 <table>
-
 <tr>
 
 <td width="50%">
 
-## 🛍️ Product Marketplace
+### 🛍️ Product Marketplace
 
-- Browse thousands of products
-- Smart category organization
-- Featured collections
-- Personalized recommendations
+* Browse products effortlessly
+* Organized shopping categories
+* Featured collections
+* Smart recommendations
 
 </td>
 
 <td width="50%">
 
-## 🔍 Smart Discovery
+### 🔍 Intelligent Search
 
-- Instant product search
-- Category filters
-- Quick navigation
-- Fast product discovery
+* Instant product discovery
+* Category filtering
+* Quick navigation
+* Optimized search results
 
 </td>
 
@@ -70,23 +70,23 @@ Designed with scalability, reliability, and performance in mind, BlitzCart follo
 
 <td>
 
-## 🛒 Shopping Cart
+### 🛒 Shopping Cart
 
-- Add & remove products
-- Quantity management
-- Dynamic cart updates
-- Smooth checkout flow
+* Add & remove products
+* Quantity management
+* Dynamic cart updates
+* Smooth checkout experience
 
 </td>
 
 <td>
 
-## 👤 Customer Accounts
+### 👤 Customer Accounts
 
-- Secure sign in
-- Personalized profile
-- Saved addresses
-- Shopping preferences
+* Secure sign in
+* Personalized profile
+* Saved addresses
+* Shopping preferences
 
 </td>
 
@@ -96,23 +96,23 @@ Designed with scalability, reliability, and performance in mind, BlitzCart follo
 
 <td>
 
-## 📦 Order Management
+### 📦 Order Management
 
-- Place orders
-- Order history
-- Delivery tracking
-- Purchase management
+* Easy order placement
+* Order history
+* Delivery status
+* Purchase tracking
 
 </td>
 
 <td>
 
-## ❤️ User Experience
+### ❤️ Beautiful Experience
 
-- Beautiful interface
-- Smooth animations
-- Responsive navigation
-- Optimized performance
+* Clean Material Design
+* Smooth animations
+* Responsive interface
+* Optimized performance
 
 </td>
 
@@ -122,19 +122,19 @@ Designed with scalability, reliability, and performance in mind, BlitzCart follo
 
 ---
 
-# 🌟 Platform Highlights
+# 🌟 Application Highlights
 
 <div align="center">
 
-| Feature | Experience |
-|---------|------------|
-| ⚡ Fast Shopping | Optimized browsing & checkout |
-| ☁️ Cloud Connected | Reliable online services |
-| 🔄 Real-Time Updates | Instant synchronization |
-| 📱 Mobile First | Native Android experience |
-| 🎯 Elegant UI | Modern Material Design |
-| 🔒 Secure Experience | Protected customer access |
-| 🚀 Scalable Architecture | Built for future expansion |
+| Feature                  | Experience                    |
+| :----------------------- | :---------------------------- |
+| ⚡ Fast Shopping          | Smooth browsing & checkout    |
+| ☁️ Cloud Connected       | Reliable online services      |
+| 🔄 Real-Time Experience  | Instant data synchronization  |
+| 📱 Mobile First          | Native Android application    |
+| 🎯 Elegant Design        | Modern Material UI            |
+| 🔒 Secure Access         | Protected customer experience |
+| 🚀 Scalable Architecture | Built for future growth       |
 
 </div>
 
@@ -161,8 +161,8 @@ BlitzCart
 ├── Service Layer
 │   ├── User Management
 │   ├── Data Synchronization
-│   ├── Media Management
 │   ├── Notification Engine
+│   ├── Media Handling
 │   └── API Integrations
 │
 └── Utilities
@@ -176,75 +176,74 @@ BlitzCart
 
 # 📱 Core Modules
 
-## 🏠 Home
+### 🏠 Home
 
-- Featured products
-- Trending collections
-- Smart recommendations
-- Promotional banners
+* Featured products
+* Trending collections
+* Promotional offers
+* Smart recommendations
 
----
+### 🛍️ Product Catalog
 
-## 🛍️ Product Catalog
+* Product browsing
+* Category navigation
+* Product details
+* Smart filtering
 
-- Organized categories
-- Product details
-- Product search
-- Filter & sorting
+### 🔎 Search
 
----
+* Instant search
+* Product discovery
+* Category filters
+* Quick navigation
 
-## 🛒 Shopping Cart
+### 🛒 Shopping Cart
 
-- Dynamic cart
-- Quantity controls
-- Checkout preparation
-- Order review
+* Dynamic cart updates
+* Quantity controls
+* Checkout preparation
+* Order review
 
----
+### 📦 Orders
 
-## 📦 Orders
+* Place orders
+* Track deliveries
+* Order history
+* Purchase management
 
-- Place orders
-- View order history
-- Delivery progress
-- Status updates
+### 👤 Customer Profile
 
----
-
-## 👤 Customer Profile
-
-- Profile management
-- Saved addresses
-- Shopping history
-- Preferences
+* Account settings
+* Saved addresses
+* Shopping history
+* Preferences
 
 ---
 
 # 🛠️ Technology Stack
 
-| Technology | Purpose |
-|------------|---------|
-| Kotlin | Native Android Development |
-| Android SDK | Mobile Application |
-| Android Jetpack | Modern Architecture |
-| Material Components | User Interface |
-| RecyclerView | Dynamic Lists |
-| Glide | Image Loading |
-| REST APIs | Communication Layer |
-| Cloud Services | Data Synchronization |
-| Gradle | Build Automation |
+| Technology          | Purpose                    |
+| ------------------- | -------------------------- |
+| Kotlin              | Native Android Development |
+| Android SDK         | Mobile Platform            |
+| Android Jetpack     | Modern Architecture        |
+| Material Components | User Interface             |
+| RecyclerView        | Dynamic Product Lists      |
+| Glide               | Image Loading              |
+| REST APIs           | Communication Layer        |
+| Cloud Services      | Data & Synchronization     |
+| Gradle              | Build Automation           |
 
 ---
 
 # 📊 Project Goals
 
-- ✔ Deliver a delightful shopping experience
-- ✔ Simplify everyday grocery purchases
-- ✔ Build a scalable commerce platform
-- ✔ Enable seamless customer journeys
-- ✔ Continuously improve performance
-- ✔ Create an elegant mobile-first experience
+* ✔ Deliver an elegant shopping experience
+* ✔ Simplify everyday grocery purchases
+* ✔ Build a scalable commerce platform
+* ✔ Enable seamless customer journeys
+* ✔ Maintain fast and responsive performance
+* ✔ Continuously improve user experience
 
 ---
 
@@ -260,7 +259,7 @@ Browse Categories
 Discover Products
      │
      ▼
-Search Products
+Search Items
      │
      ▼
 Add To Cart
@@ -280,29 +279,27 @@ Track Delivery
 
 ---
 
-# ⚙️ Getting Started
+# ⚙️ Installation
 
-## Clone Repository
+### Clone Repository
 
 ```bash
 git clone https://github.com/Stimboto/BlitzCart.git
 ```
 
-## Open Project
+### Open Project
 
 ```text
-Android Studio
-      ↓
-Open Existing Project
+Android Studio → Open Existing Project
 ```
 
-## Sync Dependencies
+### Sync Dependencies
 
 ```text
 Gradle Sync
 ```
 
-## Run Application
+### Run Application
 
 ```text
 Connect Android Device / Emulator
@@ -314,60 +311,58 @@ Connect Android Device / Emulator
 
 # 📋 Requirements
 
-| Requirement | Version |
-|-------------|----------|
-| Android Studio | Hedgehog or later |
-| Android SDK | API 21+ |
-| Kotlin | Latest Stable |
-| Gradle | 8.0+ |
-| Internet Connection | Required |
+| Requirement         | Version           |
+| ------------------- | ----------------- |
+| Android Studio      | Hedgehog or later |
+| Android SDK         | API 21+           |
+| Kotlin              | Latest Stable     |
+| Gradle              | 8.0+              |
+| Internet Connection | Required          |
 
 ---
 
 # 🚀 Future Roadmap
 
-### Version 2.0
-
-- 🤖 AI Shopping Assistant
-- 🎯 Personalized Recommendations
-- 📍 Live Delivery Tracking
-- 💳 Digital Payments
-- 🎟️ Coupons & Rewards
-- 🌙 Dark Mode
-- 🔔 Smart Notifications
-- 📦 Inventory Optimization
-- 📊 Shopping Insights
-- 🌍 Multi-City Expansion
+* 🤖 AI-powered shopping assistant
+* 🎯 Personalized recommendations
+* 📍 Live delivery tracking
+* 💳 Digital payments
+* 🎟️ Smart coupons & rewards
+* 🌙 Dark mode
+* 🔔 Intelligent notifications
+* 📦 Inventory optimization
+* 📊 Shopping analytics
+* 🌍 Multi-city expansion
 
 ---
 
-### Long-Term Vision
+# 🌍 Vision
 
-BlitzCart aims to evolve into a modern quick-commerce ecosystem that seamlessly connects customers, local businesses, and delivery partners through a reliable, scalable, and intelligent shopping platform.
+BlitzCart aims to evolve into a next-generation quick-commerce platform that seamlessly connects customers, local businesses, and delivery partners through an intelligent, reliable, and scalable shopping ecosystem.
 
 ---
 
 # 🤝 Contributing
 
+Contributions are welcome.
+
 ```text
 Fork Repository
-       │
-       ├── Create Feature Branch
-       ├── Develop Feature
-       ├── Commit Changes
-       ├── Push Branch
-       └── Open Pull Request
+      │
+      ├── Create Feature Branch
+      ├── Build Your Feature
+      ├── Commit Changes
+      ├── Push Branch
+      └── Open Pull Request
 ```
-
-Contributions, feature requests, and improvements are always welcome.
 
 ---
 
 # 📄 License
 
-This project is distributed under the **MIT License**.
+Distributed under the **MIT License**.
 
-See the LICENSE file for additional information.
+See the **LICENSE** file for more information.
 
 ---
 
@@ -377,9 +372,8 @@ See the LICENSE file for additional information.
 
 ### Building Internet Products • Mobile Experiences • Marketplace Systems
 
-⭐ If you enjoyed this project, consider giving it a **Star**.
+⭐ **If you found this project helpful, consider giving it a Star!**
 
-**Thank you for visiting BlitzCart!**
+**Thank you for visiting BlitzCart. Happy Coding! 🚀**
 
 </div>
-````
